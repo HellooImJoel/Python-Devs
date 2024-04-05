@@ -27,5 +27,5 @@ def verificar_numero(n):
     return f"{n} {primo}, {fibonacci} y {par}"
 
 # Ejemplos de uso:
-print(verificar_numero(3))  # "2 es primo, es fibonacci y es par"
-print(verificar_numero(144))  # "7 es primo, no es fibonacci y es impar"
+print(verificar_numero(3))  
+print(verificar_numero(144))  
