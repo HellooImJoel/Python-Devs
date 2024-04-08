@@ -9,3 +9,7 @@ for pokemon in response.json()["results"]:
 
 
 
+
+
+
+
